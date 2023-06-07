@@ -1,0 +1,15 @@
+**/.DS_Store
+__pycache__/
+.vscode/
+FEATURES_DIRECTORY_*/
+IMAGE_DIRECTORY_*/
+LICENSE.md
+RESULTS_*/
+*_dataset_csv/
+dataset_csv/
+docs/
+results/
+results_*/
+root/
+root_*/
+splits/
